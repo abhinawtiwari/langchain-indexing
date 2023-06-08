@@ -1,4 +1,4 @@
-# Indexing and Accessing Private Documents using LangChain
+# Indexing and Querying Private Documents using LangChain
 
 This project demonstrates how to perform indexing on a text file and query on it.
 
